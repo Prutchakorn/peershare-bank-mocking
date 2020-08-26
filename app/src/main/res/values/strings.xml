@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">peershare-bank</string>
+
+    <!-- Request List -->
+    <string name="request_list_from">From %1$s</string>
+    <string name="request_list_from_prompt_pay">Prompt Pay ID %1$s</string>
+    <string name="request_list_to_prompt_pay">To Prompt Pay ID %1$s</string>
+    <string name="request_list_date">Due Date %1$s</string>
+    <string name="request_list_amount">%1$.2f</string>
+
+    <!-- Request Detail -->
+    <string name="request_detail_amount">%1$.2f THB</string>
+</resources>
